@@ -1,0 +1,591 @@
+#googlePlay1 {
+    cursor: pointer;
+    position: absolute;
+    top: 24.5%;
+    height: 2%;
+    width: 12%;
+    left: 60%;
+}
+
+#appStore1 {
+    cursor: pointer;
+    position: absolute;
+    top: 24.5%;
+    height: 2%;
+    width: 12%;
+    left: 74%;
+}
+
+#googlePlay2 {
+    cursor: pointer;
+    position: absolute;
+    top: 272.5%;
+    height: 3%;
+    width: 15.5%;
+    left: 19%;
+}
+
+#appStore2 {
+    cursor: pointer;
+    position: absolute;
+    top: 272.5%;
+    height: 3%;
+    width: 15.5%;
+    left: 36%;
+}
+
+#whatsapp {
+    cursor: pointer;
+    position: absolute;
+    top: 272.5%;
+    height: 3%;
+    width: 5.5%;
+    left: 53%;
+}
+
+#twitter {
+    cursor: pointer;
+    position: absolute;
+    top: 272.5%;
+    height: 3%;
+    width: 5.5%;
+    left: 61%;
+}
+
+#facebook {
+    cursor: pointer;
+    position: absolute;
+    top: 272.5%;
+    height: 3%;
+    width: 5.5%;
+    left: 68%;
+}
+
+#instagram {
+    cursor: pointer;
+    position: absolute;
+    top: 272.5%;
+    height: 3%;
+    width: 5.5%;
+    left: 75%;
+}
+
+#callNumber {
+    cursor: pointer;
+    position: absolute;
+    top: 265%;
+    height: 3%;
+    width: 31.5%;
+    left: 34%;
+}
+
+@media (min-width: 1281px) {
+    /*web*/
+    #googlePlay1 {
+        cursor: pointer;
+        position: absolute;
+        top: 90%;
+        height: 8%;
+        width: 12%;
+        left: 60%;
+    }
+
+    #appStore1 {
+        cursor: pointer;
+        position: absolute;
+        top: 90%;
+        height: 8%;
+        width: 12%;
+        left: 74%;
+    }
+
+    #googlePlay2 {
+        cursor: pointer;
+        position: absolute;
+        top: 1006.5%;
+        height: 11%;
+        width: 15.5%;
+        left: 19%;
+    }
+
+    #appStore2 {
+        cursor: pointer;
+        position: absolute;
+        top: 1006.5%;
+        height: 11%;
+        width: 15.5%;
+        left: 36%;
+    }
+
+    #whatsapp {
+        cursor: pointer;
+        position: absolute;
+        top: 1006.5%;
+        height: 11%;
+        width: 5.5%;
+        left: 53.5%;
+    }
+
+    #twitter {
+        cursor: pointer;
+        position: absolute;
+        top: 1006.5%;
+        height: 11%;
+        width: 5.5%;
+        left: 60.5%;
+    }
+
+    #facebook {
+        cursor: pointer;
+        position: absolute;
+        top: 1006.5%;
+        height: 11%;
+        width: 5.5%;
+        left: 68%;
+    }
+
+    #instagram {
+        cursor: pointer;
+        position: absolute;
+        top: 1006.5%;
+        height: 11%;
+        width: 5.5%;
+        left: 75.5%;
+    }
+
+    #callNumber {
+        cursor: pointer;
+        position: absolute;
+        top: 980%;
+        height: 7%;
+        width: 31.5%;
+        left: 34%;
+    }
+}
+
+@media (device-width: 768px) and (device-height: 1024px) {
+    /*iPad Mini*/
+    #googlePlay1 {
+        cursor: pointer;
+        position: absolute;
+        top: 32.5%;
+        height: 3%;
+        width: 12%;
+        left: 60%;
+    }
+
+    #appStore1 {
+        cursor: pointer;
+        position: absolute;
+        top: 32.5%;
+        height: 3%;
+        width: 12%;
+        left: 74%;
+    }
+
+    #googlePlay2 {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 4%;
+        width: 15.5%;
+        left: 19%;
+    }
+
+    #appStore2 {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 4%;
+        width: 15.5%;
+        left: 36%;
+    }
+
+    #whatsapp {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 4%;
+        width: 5.5%;
+        left: 53%;
+    }
+
+    #twitter {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 4%;
+        width: 5.5%;
+        left: 61%;
+    }
+
+    #facebook {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 4%;
+        width: 5.5%;
+        left: 68%;
+    }
+
+    #instagram {
+        cursor: pointer;
+        position: absolute;
+        top: 363%;
+        height: 4%;
+        width: 5.5%;
+        left: 75%;
+    }
+
+    #callNumber {
+        cursor: pointer;
+        position: absolute;
+        top: 353.5%;
+        height: 3.5%;
+        width: 31.5%;
+        left: 34%;
+    }
+}
+
+@media (device-width: 320px) and (device-height: 480px) {
+    /*iPhone4*/
+    #googlePlay1 {
+        cursor: pointer;
+        position: absolute;
+        top: 29%;
+        height: 2.4%;
+        width: 12%;
+        left: 60%;
+    }
+
+    #appStore1 {
+        cursor: pointer;
+        position: absolute;
+        top: 29%;
+        height: 2.4%;
+        width: 12%;
+        left: 74%;
+    }
+
+    #googlePlay2 {
+        cursor: pointer;
+        position: absolute;
+        top: 323%;
+        height: 3.5%;
+        width: 15.5%;
+        left: 19%;
+    }
+
+    #appStore2 {
+        cursor: pointer;
+        position: absolute;
+        top: 323%;
+        height: 3.5%;
+        width: 15.5%;
+        left: 36%;
+    }
+
+    #whatsapp {
+        cursor: pointer;
+        position: absolute;
+        top: 323%;
+        height: 3.5%;
+        width: 5.5%;
+        left: 53%;
+    }
+
+    #twitter {
+        cursor: pointer;
+        position: absolute;
+        top: 323%;
+        height: 3.5%;
+        width: 5.5%;
+        left: 61%;
+    }
+
+    #facebook {
+        cursor: pointer;
+        position: absolute;
+        top: 323%;
+        height: 3.5%;
+        width: 5.5%;
+        left: 68%;
+    }
+
+    #instagram {
+        cursor: pointer;
+        position: absolute;
+        top: 323%;
+        height: 3.5%;
+        width: 5.5%;
+        left: 75.5%;
+    }
+
+    #callNumber {
+        cursor: pointer;
+        position: absolute;
+        top: 314%;
+        height: 4%;
+        width: 31.5%;
+        left: 34%;
+    }
+
+}
+
+@media (device-width: 411px) and (device-height: 823px) {
+    /*Pixel 2 XL*/
+    #googlePlay1 {
+        cursor: pointer;
+        position: absolute;
+        top: 21.5%;
+        height: 2%;
+        width: 12%;
+        left: 60%;
+    }
+
+    #appStore1 {
+        cursor: pointer;
+        position: absolute;
+        top: 21.5%;
+        height: 2.4%;
+        width: 12%;
+        left: 74%;
+    }
+
+    #googlePlay2 {
+        cursor: pointer;
+        position: absolute;
+        top: 242%;
+        height: 2.5%;
+        width: 15.5%;
+        left: 19%;
+    }
+
+    #appStore2 {
+        cursor: pointer;
+        position: absolute;
+        top: 242%;
+        height: 2.5%;
+        width: 15.5%;
+        left: 36%;
+    }
+
+    #whatsapp {
+        cursor: pointer;
+        position: absolute;
+        top: 242%;
+        height: 2.5%;
+        width: 5.5%;
+        left: 54%;
+    }
+
+    #twitter {
+        cursor: pointer;
+        position: absolute;
+        top: 241.5%;
+        height: 3%;
+        width: 5.5%;
+        left: 61%;
+    }
+
+    #facebook {
+        cursor: pointer;
+        position: absolute;
+        top: 241.5%;
+        height: 3%;
+        width: 5.5%;
+        left: 68%;
+    }
+
+    #instagram {
+        cursor: pointer;
+        position: absolute;
+        top: 241.5%;
+        height: 3%;
+        width: 5.5%;
+        left: 75%;
+    }
+
+    #callNumber {
+        cursor: pointer;
+        position: absolute;
+        top: 235%;
+        height: 3%;
+        width: 31.5%;
+        left: 34%;
+    }
+
+}
+
+@media (device-width: 375px) and (device-height: 812px) {
+    /*iPhoneX*/
+    #googlePlay1 {
+        cursor: pointer;
+        position: absolute;
+        top: 20%;
+        height: 2%;
+        width: 12%;
+        left: 60%;
+    }
+
+    #appStore1 {
+        cursor: pointer;
+        position: absolute;
+        top: 20%;
+        height: 2%;
+        width: 12%;
+        left: 74%;
+    }
+
+    #googlePlay2 {
+        cursor: pointer;
+        position: absolute;
+        top: 223.5%;
+        height: 2.5%;
+        width: 15.5%;
+        left: 19%;
+    }
+
+    #appStore2 {
+        cursor: pointer;
+        position: absolute;
+        top: 223.5%;
+        height: 2.5%;
+        width: 15.5%;
+        left: 36%;
+    }
+
+    #whatsapp {
+        cursor: pointer;
+        position: absolute;
+        top: 223.5%;
+        height: 2.5%;
+        width: 5.5%;
+        left: 54%;
+    }
+
+    #twitter {
+        cursor: pointer;
+        position: absolute;
+        top: 223.5%;
+        height: 3%;
+        width: 5.5%;
+        left: 61%;
+    }
+
+    #facebook {
+        cursor: pointer;
+        position: absolute;
+        top: 223.5%;
+        height: 3%;
+        width: 5.5%;
+        left: 68%;
+    }
+
+    #instagram {
+        cursor: pointer;
+        position: absolute;
+        top: 223.5%;
+        height: 3%;
+        width: 5.5%;
+        left: 75%;
+    }
+
+    #callNumber {
+        cursor: pointer;
+        position: absolute;
+        top: 218%;
+        height: 2%;
+        width: 31.5%;
+        left: 34%;
+    }
+
+}
+
+@media (device-width: 1024px) and (device-height: 1366px) {
+    /*iPad Pro*/
+    #googlePlay1 {
+        cursor: pointer;
+        position: absolute;
+        top: 32.5%;
+        height: 3%;
+        width: 12%;
+        left: 60%;
+    }
+
+    #appStore1 {
+        cursor: pointer;
+        position: absolute;
+        top: 32.5%;
+        height: 3%;
+        width: 12%;
+        left: 74%;
+    }
+
+    #googlePlay2 {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 3.5%;
+        width: 15.5%;
+        left: 19%;
+    }
+
+    #appStore2 {
+        cursor: pointer;
+        position: absolute;
+        top: 363.5%;
+        height: 3.5%;
+        width: 15.5%;
+        left: 36%;
+    }
+
+    #whatsapp {
+        cursor: pointer;
+        position: absolute;
+        top: 363%;
+        height: 4%;
+        width: 5.5%;
+        left: 53.5%;
+    }
+
+    #twitter {
+        cursor: pointer;
+        position: absolute;
+        top: 363%;
+        height: 4%;
+        width: 5.5%;
+        left: 61%;
+    }
+
+    #facebook {
+        cursor: pointer;
+        position: absolute;
+        top: 363%;
+        height: 4%;
+        width: 5.5%;
+        left: 68%;
+    }
+
+    #instagram {
+        cursor: pointer;
+        position: absolute;
+        top: 363%;
+        height: 4%;
+        width: 5.5%;
+        left: 75%;
+    }
+
+    #callNumber {
+        cursor: pointer;
+        position: absolute;
+        top: 353%;
+        height: 3%;
+        width: 31.5%;
+        left: 34%;
+    }
+}
+
+.marginBottom {
+    margin-bottom: 5%;
+}
